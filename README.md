@@ -2,7 +2,7 @@
 ## Project Overview
 This project is a fully automated, cloud-native inventory tracking system built entirely on AWS serverless architecture. It was designed to modernize inventory management by eliminating the need for physical servers, reducing maintenance overhead, and providing real-time, event-driven alerts.
 
-https://youtu.be/U2gIQxZ-yQ0
+Walkthrough: https://youtu.be/U2gIQxZ-yQ0
 
 ## Architecture & Data Flow
 The system processes inventory data asynchronously using a decoupled microservices architecture:
